@@ -38,7 +38,7 @@ addEventListener('fetch', (event) => {
       </style>
     </head>
     <body>
-      <h1>Hello deno server!!!</h1>
+      <h1>Hello Deno Deploy 🦕!!!</h1>
     </body>
     </html>`,
         { headers: { 'content-type': 'text/html' } }
